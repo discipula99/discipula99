@@ -1,10 +1,10 @@
 <h2 align="center"> Hi Everyone, I'm Sara 👋</h2>
 
-<p align="center">
+<div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4682B4&width=435&lines=Welcome+to+my+GitHub+Page)](https://git.io/typing-svg)
  
- </p>
+ </div>
 
 
 - 🔍 Focused on learning and improving
@@ -15,7 +15,7 @@
 
 <div align="start">
   
-  ![](https://komarev.com/ghpvc/?username=discipula99&style=for-the-badge&color=blue)
+  ![](https://komarev.com/ghpvc/?username=discipula99&style=for-the-badge&color=blue&abbreviated=true)
   
 </div>
 
@@ -25,11 +25,14 @@
 
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-          
-          
-<br />
+  <br />
 
+  #
 
 ### 📊 Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=discipula99&theme=prussian)](https://git.io/streak-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=discipula99&theme=prussian)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=discipula99&theme=prussian)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=discipula99&theme=prussian)
